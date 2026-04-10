@@ -1,5 +1,0 @@
-apiVersion: v2
-name: nginx
-version: 1.0.0  # This is the version of the chart, not the app
-description: this is nginx deployment
-appVersion: 1.2.0  # This is the version of the app, not the chart
